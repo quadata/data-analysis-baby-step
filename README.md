@@ -1,1 +1,5 @@
-# data-analysis-baby-step
+# project name: data-analysis-baby-step
+....
+# project objective: first practice with data set
+....
+# Data source: NG30days of learning financial sample
